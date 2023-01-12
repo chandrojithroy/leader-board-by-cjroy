@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+}
+
+/* header style */
+
+.header-main {
+    background: #562EFF;
+    display: flex;
+    justify-content: space-between;
+    padding: 26px 290px 20px 285px;
+}
+
+.header-title {
+    display: flex;
+    align-items: center;
+}
+
+.herader-details{
+    margin-right: 16px;
+}
+.herader-details img {
+    width: 40px;
+}
+
+.header-idea {
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 24px;
+
+}
+
+.header-main-second {
+    display: flex;
+    align-items: center;
+}
+
+.header-title-second a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    margin-right: 36px;
+}
